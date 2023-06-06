@@ -1,3 +1,3 @@
- export default async function Home() { 
-    return <h1>Hi World</h1>
+ export default async function Home() {
+    return <h1>Hello There</h1> 
  }
